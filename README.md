@@ -1,6 +1,6 @@
 # Simple Calculator
 
-<img width="1739" height="255" alt="Simple-Calc" src="https://github.com/user-attachments/assets/56eb6127-f55e-4bce-aab7-d8e608d096dc" />
+![screenshot]Simple-Calc.png
 
 ## Overview
 
