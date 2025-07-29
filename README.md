@@ -1,6 +1,6 @@
 # Simple Calculator
 
-![screenshot]Simple-Calc.png
+![screenshot](Simple-Calc.png)
 
 ## Overview
 
